@@ -1,0 +1,43 @@
+body{
+    background-image:url('https://i.pinimg.com/564x/89/ae/75/89ae755d63034254aaae93c9cf112cf3.jpg');
+    background-size: cover; 
+}
+
+.head{
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+    margin-top: -50px;
+}
+
+.button{
+    position: absolute;
+    top: 24%;
+    left: 50%;
+    transform: translate(-50%,-50%);  
+}
+
+.btn{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 30px;
+    border: 1px solid #fff;
+    transition: 0.6s ease;
+    word-spacing: 2px;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 0.6s ease;
+}
+
+.query{
+    text-align: center;
+    color: aliceblue;
+}

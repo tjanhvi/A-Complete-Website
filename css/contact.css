@@ -1,0 +1,52 @@
+body{
+    background-image:url('https://i.pinimg.com/originals/53/44/9f/53449fa87702af80374c45b87080c639.jpg');
+    background-size: cover; 
+}
+
+.bg-img{   
+    min-height: 270px;   
+}
+
+.container {
+    
+    margin: 10px;
+    max-width: 360px;
+    padding: 16px;
+    position: absolute;
+    top: 45%;
+    left: 48%;
+    -webkit-transform: translate(-50%, -50%);
+    font-size: 20px;    
+}
+
+input[type=text], input[type=password]{
+    width: 70%;
+    padding: 7px;
+    margin: 5px 0 10px 0;
+    border: none;
+    background: #f1f1f1;
+    
+}
+  
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    width: 60%;
+    opacity: 0.9;
+    border-radius: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+  
+.btn:hover{
+    opacity: 1;
+}
+

@@ -1,0 +1,31 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('https://wallpapercave.com/wp/LtEj4sO.jpg');
+    background-size: cover;
+    background-repeat: none; 
+    
+}
+
+.main{
+    font-family: Garamond, serif;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+.service{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 60px;
+    color: rgb(20, 221, 221);
+}
+
+.image{
+    margin-right: -100px;
+    float: right;
+    margin-top: -430px;
+    width: 60%;
+    
+       
+}
+
